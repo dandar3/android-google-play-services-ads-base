@@ -5,8 +5,6 @@ https://maven.google.com/com/google/android/gms/play-services-ads-base/15.0.0/pl
 
 **Requires:**
 - `Android 8.1 (API 27) SDK Platform`
-- [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/15.0.0)
-- [dandar3/android-google-play-services-tasks](https://github.com/dandar3/android-google-play-services-tasks/tree/15.0.0)
 
 **References:**
 - https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
